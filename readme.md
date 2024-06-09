@@ -35,3 +35,6 @@ http://localhost:3000
 <div style="width: 80%; height: 80%">
   ![]()
 </div>
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
