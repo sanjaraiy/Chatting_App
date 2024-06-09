@@ -32,9 +32,7 @@ http://localhost:3000
 ```
 
 ## Demo Link
-<div style="width: 80%; height: 80%">
-  ![](https://github.com/sanjaraiy/Chatting_App/blob/main/Images/src1.png)
-</div>
+<img src="https://github.com/sanjaraiy/Chatting_App/blob/main/Images/src1.png" width=100px height=100px/>
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
