@@ -32,8 +32,8 @@ http://localhost:3000
 ```
 
 ## Demo Link
-<img src="https://github.com/sanjaraiy/Chatting_App/blob/main/Images/src1.png" width=500px height=500px/> <br/>
-<img src="https://github.com/sanjaraiy/Chatting_App/blob/main/Images/src2.png" width=500px height=500px/>
+<img src="https://github.com/sanjaraiy/Chatting_App/blob/main/Images/src1.png" width=350px height=400px/> <br/>
+<img src="https://github.com/sanjaraiy/Chatting_App/blob/main/Images/src2.png" width=350px height=400px/>
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
